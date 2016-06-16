@@ -8,7 +8,7 @@ Some description of this device.
 
 ## Supported Models
 
-- [1cd1602-02](https://rap.ruff.io/devices/lcd1602-02)
+- [lcd1602-02](https://rap.ruff.io/devices/lcd1602-02)
 
 ## Installing
 
