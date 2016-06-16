@@ -1,4 +1,4 @@
-# {driver-name} Driver for Ruff
+# LCD1602 Driver for Ruff
 
 Some description of this device.
 
