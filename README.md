@@ -4,7 +4,7 @@ Some description of this device.
 
 ## Supported Engines
 
-* Ruff: 1.2.0
+* Ruff: ~1.2.0
 
 ## Supported Models
 
@@ -25,7 +25,7 @@ rap device add <device-id>
 
 ## API References
 
-[HD44780](https://github.com/ruff-drivers/hd44780)
+Device `lcd1602` exports a [hd44780](https://github.com/ruff-drivers/hd44780) built-in, please refer to `hd44780` for API references.
 
 ## Contributing
 
