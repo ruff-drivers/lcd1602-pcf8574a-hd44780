@@ -1,6 +1,6 @@
 {
     "models": [
-        "lcd1602-pcf8574a-hd44780"
+        "lcd1602-02"
     ],
     "export": "hd44780",
     "inputs": {
